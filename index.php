@@ -101,7 +101,7 @@
                         entrance exams for BCA and BIT.</p>
                     <!-- <p> Our website offers comprehensive study materials,customized learning, and progress tracking</p> -->
                     <div class="button">
-                        <a href="about.html">Read More</a>
+                        <a href="about.php">Read More</a>
                     </div>
                 </div>
             </div>
